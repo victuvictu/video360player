@@ -13,9 +13,9 @@ http://video360player.com/examples.html
 
 
 <b>More details</b>
-</br>
-&nbsp;<img src="https://krpano.com/plugins/userplugins/video360player/vlogo.png"/>
+
 For complete player information, please visit our website http://video360player.com. 
 
 
-
+</br>
+&nbsp;<img src="https://krpano.com/plugins/userplugins/video360player/vlogo.png"/>
