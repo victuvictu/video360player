@@ -8,7 +8,7 @@ Video360player is a lightness and easy-to-use panoramic video player based on kr
 
 Examples
 
-You can visit our example website examples page. 
+You can visit our example website examples page
 http://video360player.com/examples.html
 
 
