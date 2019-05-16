@@ -1,6 +1,6 @@
 # video360player
 
-&nbsp;<img src="https://krpano.com/plugins/userplugins/video360player/vlogo.png"/>
+
 
 &nbsp;<b>Description</b>
 
@@ -13,7 +13,7 @@ http://video360player.com/examples.html
 
 
 <b>More details</b>
-
+&nbsp;<img src="https://krpano.com/plugins/userplugins/video360player/vlogo.png"/>
 For complete player information, please visit our website http://video360player.com. 
 
 
